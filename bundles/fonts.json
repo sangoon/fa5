@@ -1,0 +1,8 @@
+{
+  "fonts" : {
+    "Font Awesome 5 Free Regular" : {
+      "path" : "Font Awesome 5 Free Regular.json",
+      "container" : "<i class='Font Awesome 5 Free Regular-*****'></i>"
+    }
+  }
+}
